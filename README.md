@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-fils-du-destin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Les Fils Du Destin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-fils-du-destin/) |
+| **Get License** | [Obtain a Music License for Les Fils Du Destin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-fils-du-destin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4399)
 
 ---
 
