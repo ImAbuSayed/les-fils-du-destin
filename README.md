@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-fils-du-destin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Les Fils Du Destin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-fils-du-destin/) |
+| **Get License** | [Music Rights & Licensing for Les Fils Du Destin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-fils-du-destin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 70d5e1b50cdd15c7825342bb92fe6d868abe9908
+> C'est la fièvre de la nuit, ton regard est mon poison
+> Viens danser dans le noir, tu me fais perdre la raison
+> Baby, let's take a ride, la ville est à nos pieds
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
